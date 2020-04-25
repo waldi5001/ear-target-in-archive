@@ -1,0 +1,6 @@
+openjdk version "14" 2020-03-17
+OpenJDK Runtime Environment AdoptOpenJDK (build 14+36)
+Eclipse OpenJ9 VM AdoptOpenJDK (build openj9-0.19.0, JRE 14 Linux amd64-64-Bit Compressed References 20200313_46 (JIT enabled, AOT enabled)
+OpenJ9   - 0133ba037
+OMR      - 1c04e0ef9
+JCL      - a73be60649 based on jdk-14+36)

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <file sourceOnDisk="/home/fk/Documents/ear-target-in-archive/ear-target-in-archive-ear/target/application.xml" targetInArchive="/META-INF/application.xml"/>
+    <file sourceOnDisk="/home/fk/.m2/repository/de/fk/wlp/ear-target-in-archive-web/1.0-SNAPSHOT/ear-target-in-archive-web-1.0-SNAPSHOT.war" targetInArchive="/ear-target-in-archive-web-1.0-SNAPSHOT.war"/>
+    <file sourceOnDisk="/home/fk/Documents/ear-target-in-archive/ear-target-in-archive-ear/target/tmp/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>
